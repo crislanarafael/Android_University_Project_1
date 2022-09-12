@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android University Project 1</string>
+    <string name="hint">Type your guess here</string>
+    <string name="guessBtn">Guess</string>
+</resources>
